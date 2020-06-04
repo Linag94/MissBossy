@@ -1,1 +1,4 @@
-
+-about section
+-shop
+-tetominals and reviews
+-events
